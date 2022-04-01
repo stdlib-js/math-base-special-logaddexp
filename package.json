@@ -1,0 +1,35 @@
+{
+  "name": "@stdlib/math-base-special-logaddexp",
+  "version": "0.0.0",
+  "description": "Compute the natural logarithm of exp(x) + exp(y).",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./index.mjs",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/math-base-special-logaddexp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "mathematics",
+    "math",
+    "math.log",
+    "special functions",
+    "special",
+    "ln",
+    "logaddexp",
+    "natural",
+    "logarithm",
+    "log",
+    "function"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
