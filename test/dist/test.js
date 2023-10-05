@@ -32,7 +32,7 @@ var logaddexp = require( './../../dist' );
 
 // FIXTURES //
 
-var data = require( './../..xtures/python/data.json' );
+var data = require( './../fixtures/python/data.json' );
 
 
 // TESTS //
