@@ -48,7 +48,7 @@ Log-domain computations are commonly used to increase accuracy and avoid underfl
 ## Usage
 
 ```javascript
-import logaddexp from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-logaddexp@esm/index.mjs';
+import logaddexp from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-logaddexp@v0.2.1-esm/index.mjs';
 ```
 
 #### logaddexp( x, y )
@@ -86,7 +86,7 @@ v = logaddexp( NaN, 1.0 );
 <script type="module">
 
 import incrspace from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-incrspace@esm/index.mjs';
-import logaddexp from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-logaddexp@esm/index.mjs';
+import logaddexp from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-logaddexp@v0.2.1-esm/index.mjs';
 
 var x = incrspace( -100.0, 100.0, 1.0 );
 
