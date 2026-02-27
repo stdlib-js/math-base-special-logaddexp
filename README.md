@@ -41,6 +41,8 @@ Log-domain computations are commonly used to increase accuracy and avoid underfl
 
 </section>
 
+<!-- /.intro -->
+
 <section class="installation">
 
 ## Installation
